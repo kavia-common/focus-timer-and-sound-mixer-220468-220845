@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/focus-timer-and-sound-mixer-220468-220845/pomodoro_focus_frontend"
+}
